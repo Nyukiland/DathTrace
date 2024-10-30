@@ -33,13 +33,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Cutoff: 0.5
-    - _FluffyScale: 2.66
+    - _Cutoff: 0.47
+    - _FluffyScale: 3.89
     - _LightStuff: 3.97
-    - _LightTransiSmoother: 0.12
+    - _LightTransiSmoother: 0.1
     - __dirty: 0
-    - _noiseSize: 1
-    - _smoothness: 0.077
+    - _noiseSize: 1.24
+    - _smoothness: 0.09
     - _windSpeed: 0.3
     m_Colors:
     - _BaseColor: {r: 0.42700002, g: 0.37932643, b: 0.10917614, a: 0}
